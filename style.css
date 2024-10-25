@@ -1,0 +1,6 @@
+.card {
+    transition: transform 0.5s ease-in-out;
+}
+.card:hover {
+    transform: rotate(360deg); /* Rotate on hover */
+}
